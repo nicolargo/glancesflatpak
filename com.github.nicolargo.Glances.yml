@@ -1,0 +1,7 @@
+app-id: com.github.nicolargo.glances
+runtime: org.freedesktop.Platform
+runtime-version: '22.08'
+sdk: org.freedesktop.Sdk
+command: glances
+modules:
+  - python3-glances-full.json
